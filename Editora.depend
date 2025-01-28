@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1738102985 source:c:\users\dell\onedrive\documents\c projects\editora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file_operations.h"
+	"theme_manager.h"
+	"text_editor_utilities.h"
+
+1738106129 c:\users\dell\onedrive\documents\c projects\editora\file_operations.h
+
+1738103178 c:\users\dell\onedrive\documents\c projects\editora\theme_manager.h
+
+1738106129 c:\users\dell\onedrive\documents\c projects\editora\text_editor_utilities.h
+
+1738103012 source:c:\users\dell\onedrive\documents\c projects\editora\file_operations.c
+	<stdio.h>
+	<stdlib.h>
+	"file_operations.h"
+
+1738103072 source:c:\users\dell\onedrive\documents\c projects\editora\text_editor_utilities.c
+	<stdio.h>
+	<string.h>
+	"text_editor_utilities.h"
+
+1738103152 source:c:\users\dell\onedrive\documents\c projects\editora\theme_manager.c
+	<stdio.h>
+	<stdlib.h>
+	"theme_manager.h"
+
