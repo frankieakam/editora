@@ -8,7 +8,7 @@ Edit text files.
 Save text files etc.
 
 ## Technologies Used
-<img src="assets/C-logo" alt="C Logo" width="200">
+<img src="assets/C-logo.png" alt="C Logo" width="200">
 
 ## Note
 As of now, Editora does not have a graphical user interface (GUI). 
