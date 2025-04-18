@@ -31,9 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="file_operations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_operations.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="text_editor_utilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="text_editor_utilities.h" />
+		<Unit filename="theme_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="theme_manager.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
